@@ -1,0 +1,17 @@
+.not-grabbed{
+    cursor: move;
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+.grabbed{
+    cursor: grabbing;
+    cursor: -moz-grabbing;
+    cursor: -webkit-grabbing;
+}
+.box{
+    background-color: blueviolet;
+    border: 2px dashed black;
+    border-radius: 6px;
+}
